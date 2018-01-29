@@ -1,0 +1,2 @@
+Lunar Lander Class Initialized
+Screen Width set to 800 and Height set to 480

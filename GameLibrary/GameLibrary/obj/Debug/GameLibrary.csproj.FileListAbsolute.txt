@@ -1,0 +1,132 @@
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Week 9\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 2\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 3\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+E:\2D Game Design\MonoGames\Lunar Lander Week 4\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\MonoGame.Framework.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XAudio2.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.DXGI.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct3D11.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.Direct2D1.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.XInput.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.Debug.DebugWindow.resources
+G:\2D Game Design\MonoGames\Lunar Lander Week 5\LunarLander\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.GenerateResource.Cache

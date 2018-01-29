@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/2D Game Design/MonoGames/Lunar Lander Week 5/LunarLander/LunarLander/LunarLander/Content/Explosion.wav</SourceFile>
+  <SourceTime>2017-11-08T18:21:38.6529672-05:00</SourceTime>
+  <DestFile>E:/2D Game Design/MonoGames/Lunar Lander Week 5/LunarLander/LunarLander/LunarLander/Content/bin/Windows/Explosion.xnb</DestFile>
+  <DestTime>2017-12-20T18:18:30.0740916-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,13 @@
+#These variables can be changed to fix the map
+#These are all float values
+minY = 400.0
+maxY = 600.0
+terrainMinLength = 35.0
+terrainMaxLength = 75.0
+padsMinLength = 35.0
+padsMaxLength = 50.0
+
+#Min and max number of terrain lines before a pad
+#Only whole numbers can be used
+minNumOfTerrain = 3
+maxNumOfTerrain = 5
